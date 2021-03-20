@@ -1,0 +1,8 @@
+pandas
+nltk
+seaborn
+plotly
+sklearn
+wordcloud
+statsmodels
+spacy
